@@ -1,4 +1,6 @@
-<h1>Hola soy juan este es mi primer repositorio en github</h1>
- -Estado de proyecto en construccion.
+# Hola soy juan este es mi primer repositorio en github
+- Estado de proyecto en construccion.
 - Para ejecutar el sistema debes poner:
-```npm install react```
+```bash
+npm install react
+```
